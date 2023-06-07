@@ -1,16 +1,20 @@
 # twitter_clone
 
-A new Flutter project.
+Source Code for Full Stack Twitter App - Works on Android & iOS!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Appwrite & Docker Installation
+- Important Appwrite Commands
+- Appwrite Setup for Android & iOS
+- Setting up Flutter Project
+- Architectural & Folder Pattern
+- Login UI
+- Signup UI
+- Signing Up User with Appwrite Auth
+- Providing the Class / Dependency Injection
+- Signing Up User contd. (Auth Controller)
+- Login User with Appwrite Auth
+- Adding Proper Navigation
+- Persisting Auth State
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
