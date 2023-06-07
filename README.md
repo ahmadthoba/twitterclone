@@ -4,9 +4,6 @@ Source Code for Full Stack Twitter App - Works on Android & iOS!
 
 ## Features
 
-- Appwrite & Docker Installation
-- Important Appwrite Commands
-- Appwrite Setup for Android & iOS
 - Setting up Flutter Project
 - Architectural & Folder Pattern
 - Login UI
